@@ -1,7 +1,7 @@
 services:
 - type: web
   name: advantage-api-prod
-  plan: free
+  plan: starter plus
   env: docker
   region: ohio
   autoDeploy: false
