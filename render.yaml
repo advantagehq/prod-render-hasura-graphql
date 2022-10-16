@@ -22,6 +22,6 @@ services:
   - key: HASURA_GRAPHQL_UNAUTHORIZED_ROLE
     value: anonymous
 databases:
-- name: advantage-api-staging
+- name: advantage-api-prod
   postgresMajorVersion: 14
   region: ohio
