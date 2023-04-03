@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prod-render-hasura-graphql/static/css/main.ca5c0cd6.css",
+    "main.js": "/prod-render-hasura-graphql/static/js/main.5f00b604.js",
+    "static/js/787.b8953acb.chunk.js": "/prod-render-hasura-graphql/static/js/787.b8953acb.chunk.js",
+    "index.html": "/prod-render-hasura-graphql/index.html",
+    "main.ca5c0cd6.css.map": "/prod-render-hasura-graphql/static/css/main.ca5c0cd6.css.map",
+    "main.5f00b604.js.map": "/prod-render-hasura-graphql/static/js/main.5f00b604.js.map",
+    "787.b8953acb.chunk.js.map": "/prod-render-hasura-graphql/static/js/787.b8953acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca5c0cd6.css",
+    "static/js/main.5f00b604.js"
+  ]
+}
